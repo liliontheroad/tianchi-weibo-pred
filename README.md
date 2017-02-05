@@ -13,5 +13,6 @@ Tim:
 
 Huiqun:
 * https://zhuanlan.zhihu.com/p/24877060
+* https://www.quora.com/What-is-the-best-Python-library-for-Hidden-Markov-Models
 
 ----
